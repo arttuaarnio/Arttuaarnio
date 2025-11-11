@@ -9,5 +9,3 @@
 <p align="left">
   🔗 Check out my <a href="https://arttuaarnio.tech" target="_blank">portfolio</a>
 </p>
-
-<img src="https://raw.githubusercontent.com/arttuaarnio/arttuaarnio/output/snake.svg" alt="Snake animation" />
