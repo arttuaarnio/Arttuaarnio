@@ -7,5 +7,5 @@
 </p>
 
 <p align="left">
-  🔗 Check out my <a href="https://arttuaarnio.tech" target="_blank">portfolio</a>
+  🔗 Check out my <a href="https://arttuaarnio.com" target="_blank">portfolio</a>
 </p>
